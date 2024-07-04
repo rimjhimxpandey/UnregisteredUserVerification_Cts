@@ -1,4 +1,5 @@
-• Detailed Description: 
+# UNREGISTERED USER VERIFICATION
+**Detailed Description:**
 
 Launch any browser  
 Go to "http://change2naturalfoods.com/  
@@ -12,7 +13,7 @@ Verify error message is displayed for unregistered user
 Get an error message for unregistered email id and print the same in the console  
 Close browser 
 
-• Key Automation Scope: 
+**Key Automation Scope:**
 
 Handling different browser windows(Chrome, Edge)
 Page synchronization
@@ -20,22 +21,21 @@ Unregistered email id verification
 Maximizing the window
 Filling form (in different objects in web page)
 
-REFERENCE FOLDERS:
+### REFERENCE FOLDERS:
 
 (1)- Drivers not uploaded due to size restrictions.(Chrome,Edge)
 (2)- Screenshots taken during test execution are stored in the Screenshot folder.
 (3)- Video file of end-to-end execution is placed in the zip file.
 
-PRE-REQUISITES:
+### PRE-REQUISITES:
 
 (1)- Selenium version:3.141.59 jar
 (2)- Chrome browser version: 107.0.5304.62
 (3)- Edge browser version: 107.0.1418.52 
 
-OUTPUT IN CHROME AND EDGE:
+### OUTPUT IN CHROME AND EDGE:
 
-
-Launching Chrome Browser
+#### Launching Chrome Browser
 
 Select your browser 1.chrome 2.Edge
 1
@@ -48,7 +48,7 @@ Nov 23, 2022 12:47:41 PM org.openqa.selenium.remote.ProtocolHandshake createSess
 INFO: Detected dialect: W3C
 Error: Email or password is incorrect!
 
- Launching Edge Browser
+#### Launching Edge Browser
 
 Select your browser 1.chrome 2.Edge
 2
